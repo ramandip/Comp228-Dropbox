@@ -1,0 +1,56 @@
+Lab Assignment 1
+========================
+does not compile
+
+Lab Assignment 2
+========================
+*
+
+Lab Test 1
+========================
+Code
+Compiles (5) 1
+Equals/toString/constructors (2 1 2) 0 0 1
+Abstract/Interfaces (5) 0
+Tester (5) 0
+
+= 2
+
+Answers 1 0.5 0 0 0
+
+= 1.5
+
+Total: 3.5
+
+Lab Assignment 3
+========================
+identical to another submission
+
+Lab Assignment 4
+========================
+Compiles, does not crash (max 2):
+Show (max 2): 1
+Insert (max 2):
+Update existing (max 2):
+Display Book + Patron (max 2): 1
+Most frequent (max 2):
+Layout, usability (max 3): 2
+
+Total (15): 12
+
+Lab Assignment 5
+========================
+Compiles and runs (1 pts): 1
+Calculates correctly (even with one thread, 2 pts): 2
+Multithreading, scaling of the performance with more threads (4 pts): 1
+
+Lab Test 1 make-up
+========================
+test file absent
+
+Lab Assignment 6
+========================
+8 / 8 - A+
+
+
+========================
